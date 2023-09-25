@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txt_login">Login</string>
+    <string name="txt_hint_password">Password\n</string>
+    <string name="edt_login_username">Username</string>
+    <string name="btn_login_pg_text">Login</string>
+    <string name="user_welcome_heading">Hello Anant</string>
+    <string name="place_name">Badrinath</string>
+    <string name="place_name_location">Badrinath</string>
+    <string name="btn_txt_wikipedia">Wikipedia</string>
+    <string name="btn_txt_directions">Directions</string>
+    <string name="btn_txt_review">Review</string>
+    <string name="txt_place_description">Description</string>
+    <string name="txt_place_reviews">Reviews</string>
+    <string name="txt_review_place_name">Place Name</string>
+    <string name="txt_review_user_name">Anant Parmar</string>
+    <string name="txt_review_privacy">Posting publicly</string>
+    <string name="txt_review_user_experience">Share more about your experience</string>
+    <string name="txt_hint_user_experience">Write your experience about this place</string>
+    <string name="txt_btn_review_post">Post</string>
+    <string name="txt_content_descr_rating_bar">rating</string>
+</resources>

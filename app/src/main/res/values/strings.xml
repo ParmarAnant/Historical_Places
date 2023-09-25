@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">Historical_Places</string>
+
+    <!-- Place descriptions -->
+    <string name="txt_descr_tajmahal">The Taj Mahal is located on the right bank of the Yamuna River
+        in a vast Mughal garden that encompasses nearly 17 hectares, in the Agra District in Uttar
+        Pradesh. It was built by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal with
+        construction starting in 1632 AD and completed in 1648 AD, with the mosque, the guest house
+        and the main gateway on the south, the outer courtyard and its cloisters were added
+        subsequently and completed in 1653 AD. The existence of several historical and Quaranic
+        inscriptions in Arabic script have facilitated setting the chronology of Taj Mahal. </string>
+
+    <string name="txt_descr_somnath">Shree Somnath is first among the twelve Aadi Jyotirlings of
+        India. It has a strategic location on the western coast of India.Ancient Indian traditions
+        maintain a close relationship of Somnath with release of Chandra (Moon God) from the curse
+        of his father-in-law Daksha Prajapati. Moon was married to Twenty-Seven daughters of Daksha.
+        However, he favoured Rohini and neglected other queens. The aggrieved Daksha cursed Moon and
+        the Moon lost power of light. With the advice of Prajapita Brahma, Moon arrived at the
+        Prabhas Teerth and worshipped Bhagvan Shiva</string>
+
+    <string name="txt_descr_kedarnath">In Hindu tradition, it is believed that Lord Shiva manifested
+        in form of Jyotirlingam or the cosmic light. There are 12 such Jyotirlingas and Kedarnath is
+        highest among them. This magnificent temple is ancient and constructed over a thousand years
+        ago by Jagad Guru Adi Shankaracharya. It is located in the Rudra Himalaya range of
+        Uttarakhand State. It is situated at an altitude of 3,581 mt and it is a 16 km trek from the
+        nearest place of Gaurikund.</string>
+
+    <string name="txt_descr_badrinath">The name of the Badarinath tirtha originates from local word
+        Badari which is a type of a wild berry. It is said that when Lord Vishnu sat in penance in
+        these mountains, His consort Goddess Laxmi took the form of a berry tree and shaded Him from
+        the harsh sun. It is not only the dwelling place of Lord Vishnu Himself but also home to
+        countless pilgrims, saints and sages, who meditate here in search of enlightenment.
+    </string>
+
+    <string name="txt_descr_kailasa">The Kailasa temple is 300 feet long and 175 feet wide, and it
+        is carved out of a scarp that is over 100 feet high. Contrary to many other ancient rock
+        structures, this temple complex was built from top to bottom rather than bottom to top. The
+        job was done with no better tools than a chisel and hammer. Scaffolds were not used at all.
+        Due to the size of the excavation and the splendour of the design, this cave is an unrivalled
+        masterpiece of Indian architecture</string>
+
+    <!-- Place lattitude and longitudes -->
+    <!-- Taj mahal lattitude and longitudes -->
+    <string name="lat_tajmahal">27.173891</string>
+    <string name="log_tajmahal">78.042068</string>
+
+    <!-- Somnath lattitude and longitudes -->
+    <string name="lat_somnath"> 20.905886</string>
+    <string name="log_somnath">70.387505</string>
+
+    <!-- kedarnath lattitude and longitudes -->
+    <string name="lat_kedarnath">30.734627</string>
+    <string name="log_kedarnath">79.066895</string>
+
+    <!-- badrinath lattitude and longitudes -->
+    <string name="lat_badrinath">30.743309</string>
+    <string name="log_badrinath">79.493767</string>
+
+    <!-- kailasa lattitude and longitudes -->
+    <string name="lat_kailasa">20.0210</string>
+    <string name="log_kailasa">75.1742</string>
+
+
+
+
+    <!-- activity_main.xml -->
+    <string name="txt_home_page">INDIA</string>
+
+    <!-- activity_login.xml -->
+    <string name="txt_login">Login</string>
+    <string name="edt_login_username">Username</string>
+    <string name="txt_hint_password">Password\n</string>
+    <string name="btn_login_pg_text">Login</string>
+
+    <!-- activity_rcv_content -->
+    <string name="user_welcome_heading">Hello Anant</string>
+
+    <!-- activity_place_details -->
+    <string name="place_name">Badrinath</string>
+    <string name="place_name_location">Badrinath</string>
+    <string name="btn_txt_wikipedia">Wikipedia</string>
+    <string name="btn_txt_directions">Directions</string>
+    <string name="btn_txt_review">Review</string>
+    <string name="txt_place_description">Description</string>
+    <string name="txt_place_reviews">Reviews</string>
+
+    <!-- activity_review -->
+    <string name="txt_review_place_name">Place Name</string>
+    <string name="txt_review_user_name">Anant Parmar</string>
+    <string name="txt_review_privacy">Posting publicly</string>
+    <string name="txt_review_user_experience">Share more about your experience</string>
+    <string name="txt_hint_user_experience">Write your experience about this place</string>
+    <string name="txt_btn_review_post">Post</string>
+    <string name="txt_content_descr_rating_bar">rating</string>
+<!--    <string name="txt_btn_login">Login</string>-->
+</resources>
