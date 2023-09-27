@@ -1,6 +1,8 @@
 # Historical_Places
 
 This is an static android app without admin app.
+
+# android studio info
 Language: Java
 Design : XML
 compileSdk 33
