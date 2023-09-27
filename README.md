@@ -3,11 +3,11 @@
 This is an static android app without admin app.
 
 # android studio info
-Language: Java
-Design : XML
-compileSdk 33
-minSdk 24
-targetSdk 33
+Language: Java <br>
+Design : XML<br>
+compileSdk 33<br>
+minSdk 24<br>
+targetSdk 33<br>
     
 # dependincies
 
